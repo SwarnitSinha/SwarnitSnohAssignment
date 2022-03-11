@@ -56,3 +56,10 @@ class MainActivity : AppCompatActivity() {
         return navController.navigateUp(appBarConfiguration) || super.onSupportNavigateUp()
     }
 }
+
+/*
+IMPORTANT
+This project is created by Swarnit Sinha.
+It's an assignment for Snoh Technologies.
+
+ */
